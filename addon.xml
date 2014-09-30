@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.nhlgamecenter" name="NHL Gamecenter" version="0.0.1" provider-name="willeneum">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">NHL Gamecenter</summary>
+		<description lang="en">Watch NHL Gamecenter streams</description>
+		<disclaimer lang="en"/>
+		<language/>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<forum/>
+		<website/>
+		<email/>
+		<source/>
+	</extension>
+</addon>

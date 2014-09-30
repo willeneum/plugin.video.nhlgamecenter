@@ -1,0 +1,10 @@
+<strings>
+    <string id="30001">Email</string>
+    <string id="30002">Password</string>
+	<string id="30002">Preferred Bitrate</string>
+	
+	
+    <string id="30101">Login</string>
+    <string id="30102">Options</string>
+	<string id="30103">Debug</string>
+</strings>
