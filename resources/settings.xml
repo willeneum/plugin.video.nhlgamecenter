@@ -1,0 +1,12 @@
+<settings>
+  <category label="30100">
+    <setting id="email" type="text" label="30001" default="" visible="eq(-1,0)" enable="eq(-1,0)"/>
+    <setting id="password" type="text" label="30002" default="" option="hidden" visible="eq(-2,0)" enable="eq(-2,0)"/>
+  </category>
+  <category label="30101">
+    <setting id="preferred_bitrate" type="select" label="30003" lvalues="30004|30005|30006" default="8"/>
+  </category>
+  <category label="30102">
+    <setting id="debug" type="bool" label="Add-on debugging" default="false"/>
+  </category>
+</settings>
